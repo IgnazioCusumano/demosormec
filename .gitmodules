@@ -2,3 +2,8 @@
 	path = OCA/product-configurator
 	url = git@github.com:OCA/product-configurator.git
 	branch = 14.0
+
+[submodule "ABC-Strategie-GitHub/abc_x_sormec"]
+	path = ABC-Strategie-GitHub/abc_x_sormec
+	url = git@github.com:ABC-Strategie-GitHub/abc_x_sormec.git
+	branch = 16.0
